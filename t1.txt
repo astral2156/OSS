@@ -1,9 +1,13 @@
 qrwr
 qrwr
 qrwr
+<<<<<<< HEAD
 qrw ergegr
 qrwr
 1e12qrw  eager
+=======
+1e12qrwr
+>>>>>>> parent of 1ca6a3c... egge
 qrwr
 qrwr
 qrwr
